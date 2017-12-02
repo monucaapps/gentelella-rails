@@ -10,7 +10,6 @@ require 'chart-js-rails'
 require 'flot-rails'
 require 'switchery-rails'
 require 'select2-rails'
-require 'parsley-rails'
 
 module Gentelella
   class << self
