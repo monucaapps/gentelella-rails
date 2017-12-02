@@ -9,7 +9,6 @@ require 'fastclick-rails'
 require 'chart-js-rails'
 require 'flot-rails'
 require 'switchery-rails'
-require 'select2-rails'
 
 module Gentelella
   class << self
